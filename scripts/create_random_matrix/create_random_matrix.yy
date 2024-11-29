@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_random_matrix",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_random_matrix",
+  "parent":{
+    "name":"Nn",
+    "path":"folders/Scripts/Nn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

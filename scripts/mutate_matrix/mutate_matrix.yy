@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"mutate_matrix",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mutate_matrix",
+  "parent":{
+    "name":"Nn",
+    "path":"folders/Scripts/Nn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

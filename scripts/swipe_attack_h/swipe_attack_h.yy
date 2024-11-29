@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"swipe_attack_h",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"swipe_attack_h",
+  "parent":{
+    "name":"Weapons",
+    "path":"folders/Scripts/Weapons.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

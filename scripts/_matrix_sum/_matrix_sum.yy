@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"_matrix_sum",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"_matrix_sum",
+  "parent":{
+    "name":"Nn",
+    "path":"folders/Scripts/Nn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

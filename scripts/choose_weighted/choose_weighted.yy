@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"choose_weighted",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"choose_weighted",
+  "parent":{
+    "name":"Nn",
+    "path":"folders/Scripts/Nn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

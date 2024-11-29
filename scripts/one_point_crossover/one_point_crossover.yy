@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"one_point_crossover",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"one_point_crossover",
+  "parent":{
+    "name":"Nn",
+    "path":"folders/Scripts/Nn.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

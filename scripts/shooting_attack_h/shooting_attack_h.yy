@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"shooting_attack_h",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"shooting_attack_h",
+  "parent":{
+    "name":"Weapons",
+    "path":"folders/Scripts/Weapons.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
